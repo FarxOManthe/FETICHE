@@ -2,7 +2,7 @@
 
 Salut 👋
 
-F.E.T.I.C.H.E est un projet personnel ayant pour objectif d'aider les personnes sourdes et muettes à communiquer plus facilement grâce à l'intelligence artificielle et à la vision par ordinateur.
+F.E.T.I.C.H.E est un projet personnel, GRATUIT ET OPEN SOURCE ayant pour objectif d'aider les personnes sourdes et muettes à communiquer plus facilement grâce à l'intelligence artificielle et à la vision par ordinateur.
 
 Le principe est simple :
 
